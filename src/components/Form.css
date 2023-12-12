@@ -1,0 +1,23 @@
+form {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 800px;
+  gap: 10px;
+}
+
+form > textarea {
+  width: 80%;
+  min-width: 300px;
+  min-height: 130px;
+  height: 50%;
+  border-radius: 10px;
+  padding: 10px;
+  resize: vertical;
+  position: relative;
+  background-color: aliceblue;
+  color: #000;
+}

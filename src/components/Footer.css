@@ -1,0 +1,15 @@
+footer {
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  margin: 10px auto;
+  font-family: "Fredoka", sans-serif;
+  font-weight: bold;
+  z-index: 100;
+}
+
+footer a:hover {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: aliceblue;
+}
